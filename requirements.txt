@@ -1,3 +1,5 @@
 # Updates:
 #   Nov 2019: Update Flask to a more recent version
+pip
+
 Flask==1.1.1
